@@ -8,19 +8,19 @@ body {
 /* Heading fonts */
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    font: "courier";
+    font: "Monospace";
     
 }
 
 /* Code/monospace font */
 code, pre {
-    font: "courier";
+    font: "Monospace";
     font-weight: normal;
 }
 
 /* Button styling */
 button {
-    font-family: Arial, Helvetica, sans-serif;
+    font: "Monospace";
     padding: 10px 20px;
     cursor: pointer;
 }
