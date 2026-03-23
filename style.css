@@ -8,19 +8,19 @@ body {
 
 /* Heading fonts */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Monospace";
+    font-family: "Segoe UI";
     font-weight: bold;
     
 }
 
 /* Code/monospace font */
 code, pre {
-    font-family: "Monospace";
+    font-family: "Segoe UI";
     font-weight: normal;
 }
 
 /* Button styling */
 button {
-    font-family: "Monospace";
+    font-family: "Segoe UI";
     cursor: pointer;
 }
