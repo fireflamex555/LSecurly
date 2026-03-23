@@ -1,16 +1,17 @@
 /* Global font styling */
 body {
-    text-align: center;
     font-family: "Segoe UI";
     line-height: 1.6;
     color: #ffffff;
     background-color: #000000;
+    text-align: center;
 }
 
 /* Heading fonts */
 h1, h2, h3, h4, h5, h6 {
     font-family: "Segoe UI";
     font-weight: bold;
+    text-align: center;
     
 }
 
@@ -18,10 +19,12 @@ h1, h2, h3, h4, h5, h6 {
 code, pre {
     font-family: "Segoe UI";
     font-weight: normal;
+    text-align: center;
 }
 
 /* Button styling */
 button {
     font-family: "Segoe UI";
     cursor: pointer;
+    text-align: center;
 }
