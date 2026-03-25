@@ -1,6 +1,6 @@
 /* Global font styling */
 body {
-    font-family: "Segoe UI";
+    font-family: "Roboto";
     line-height: 1.6;
     color: #ffffff;
     background-color: #000000;
@@ -9,7 +9,7 @@ body {
 
 /* Heading fonts */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Segoe UI";
+    font-family: "Roboto";
     font-weight: bold;
     text-align: center;
     
@@ -17,14 +17,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Code/monospace font */
 code, pre {
-    font-family: "Segoe UI";
+    font-family: "Roboto";
     font-weight: normal;
     text-align: center;
 }
 
 /* Button styling */
 button {
-    font-family: "Segoe UI";
+    font-family: "Roboto";
     cursor: pointer;
     text-align: center;
 }
